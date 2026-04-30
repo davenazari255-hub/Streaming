@@ -1,0 +1,10 @@
+{
+  "name": "stream-bridge",
+  "version": "1.0.0",
+  "description": "Serverless stream relay",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
